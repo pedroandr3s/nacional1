@@ -126,6 +126,7 @@
                     android:textColor="#FFFFFF" />
 
                 <Button
+                    android:id="@+id/btnInvitado"
                     android:layout_width="344dp"
                     android:layout_height="53dp"
                     android:background="@drawable/edittext_background"
